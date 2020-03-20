@@ -1,37 +1,45 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: 人在江湖
+tags: [简介, 个人简介, 网站说明, 关于我]
 date: 2016-03-21
+feature: ../assets/img/wwy.jpeg
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center><a href="https://github.com/weiwenying/"><b>欢迎您！</b></a>  仁兄，让我们一起行走江湖吧，从此同舟共济！</center>
 
-## Preview
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+二楼制版室、学院505、实验室A619、实验室A621、实验室C603、实验室C602等等，
 
-## Getting Started
+# 大学一年级
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+北方民族大学，我从广西到宁夏，够远，长见识。某天 **电子科技协会** 招新，从此，我迷恋上了实验室，一发不可收拾：
+
+>   在实验室住了4年！！！
+
+童年时，别人家的孩子，买了玩具，是拿回来玩的。而我们，拿回来却是拆的，拆开看看，再装回去，再拆开，一遍又一遍。**没想到，上了大学，这个毛病又犯了。** 寻迹小车、机器人、电脑鼠、小飞机、遥控汽车等等，就是想看看、想拆拆，从此，走上了一条不归路。开始C语言学习、80C51单片机学习、SMT32芯片使用。结果：
+
+>   大一下学期，拿到了全校大一新生里，唯一一个小组（4人，均为大一新生），前往上海参加全国机器大赛机会。
+
+当时有点小得意（哈哈哈～～～）。我们4个人，所学技术，都是半桶水，入门级：
+
+-   三天两头机器人烧坏，嗯，硬件做得太垃圾了。
+-   程序经常跑飞，嗯～～～，逻辑有问题。
+-   团队合作出现了问题！！！高中单干惯了（话说高中也没什么合作的机会。。。），每个人都是亲爹（包括我也是，哈哈哈）。在代码上都有各自的想法，每个人都 “深度修改”代码，最终代码乱七八糟。加之时间紧迫，压力巨大，此前从未有过如此经历（那段时间，感觉高考都没有那么累，哎！！！）。
+
+经此一役，不断反思，得道：
+
+>   项目合作，开心是根本。项目合作开发，要达到你好，我好，大家好，才是真的好。保持良好心态，照顾各方情绪，积极肯定他人，不吝表扬他人。
+
+**美丽的结果，固然重要；不孤芳自赏，让大家都开心的旅程，同样重要。**
+
+# 高中毕业
+
+嗯！那年高中毕业了！然后：
+
+>   8月广东最热的时候，远离家乡，去了东莞，某个工地，每天10小时，大干了一个月。九月，大学开学！！！
+
+离开工地那一刻，竟然有些不舍。工地喝酒的夜晚，扛钢筋水泥的烈日。多年以后，或许，我能为这个群体做些什么！不敢忘怀！！！
+
