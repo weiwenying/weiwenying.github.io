@@ -9,6 +9,9 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://weiwenying.github.io # 本地测试时，改为 http://127.0.0.1:4000
+# @wwy
+wwy_logo:           'assets/img/wwy_logo2.png'
+
 
 # Jekyll
 permalink:          /:title/
@@ -41,6 +44,7 @@ disqus_shortname:   weiwenying
 twitter:            weiwenying
 facebook:           weiwenying
 github-url:         weiwenying
+jianshu:            04b6bd32b52b
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -63,7 +67,7 @@ github-url:         weiwenying
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
