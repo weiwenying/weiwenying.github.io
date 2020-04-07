@@ -4,7 +4,7 @@ title:  "10_使用Github Pages搭建博客"
 date:   2016-03-15
 excerpt: "可以使用jekyll搭建一个个人小站，需要网页前端编程基础。"
 tag:
-- 02_Github的使用
+- 03_Git的相关
 comments: false
 ---
 
